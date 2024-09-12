@@ -60,7 +60,7 @@
   - Sales trends and customer segments.
   - Detailed visualizations like Column, Pie, and Line charts for business insights.
 - **Tools**: Power BI, DAX, Power Query.
-- [GitHub Repository](https://github.com/OmarMSaleh/Cookies-Shop-Sales-Report) | [Project Demo](./assets/cookies_shop_demo.gif)
+- [GitHub Repository](https://github.com/3am0r/PowerBI)
 
 ### 2. 🛠 AI-Powered CCTV System
 - **Description**: Developed an AI-based CCTV system for recognizing vehicle license plates, types, and colors from live feeds using computer vision techniques.
@@ -69,8 +69,6 @@
   - Image-based vehicle attribute detection.
   - Enhanced monitoring for security purposes.
 - **Tools**: Python, OpenCV, AI/ML models.
-- [GitHub Repository](https://github.com/OmarMSaleh/AI-CCTV)
-
 ---
 
 ## 📈 Stats
