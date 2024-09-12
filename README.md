@@ -57,3 +57,10 @@
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/omar-saleh)  
 - [GitHub](https://github.com/OmarMSaleh)
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
+
+
