@@ -21,6 +21,7 @@
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
   ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=flat-square&logo=microsoft&logoColor=white)  
   ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 - **Development Tools:**  
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)  
@@ -53,7 +54,16 @@
 
 ## 💼 Projects
 
-### 1. 🍪 Cookies Shop Sales Report - Data Analysis with Power BI
+### 1. 🏥 Hospital Analysis Project
+- **Description**: Comprehensive hospital data analysis spanning 3 years using **Power BI**, **Python**, and **SQL**.
+- **Key Features**:
+  - Data Cleaning and Transformation with **Python**.
+  - Database Creation and Modeling with **SQL**.
+  - Interactive Dashboards with **Power BI**.
+- **Tools**: Power BI, DAX, Power Query, Python, SQL.
+- [GitHub Repository](https://github.com/OmarMSaleh/Hospital-Analysis)
+- 
+### 2. 🍪 Cookies Shop Sales Report - Data Analysis with Power BI
 - **Description**: An interactive sales report analyzing a cookie shop's performance. Used **Power BI** for data transformation, relationship modeling, and creating various visualizations.
 - **Key Insights**:
   - Total profit, revenue, and units sold by cookie type.
@@ -62,7 +72,7 @@
 - **Tools**: Power BI, DAX, Power Query.
 - [GitHub Repository](https://github.com/3am0r/PowerBI)
 
-### 2. 🛠 AI-Powered CCTV System
+### 3. 🛠 AI-Powered CCTV System
 - **Description**: Developed an AI-based CCTV system for recognizing vehicle license plates, types, and colors from live feeds using computer vision techniques.
 - **Key Features**:
   - Real-time video processing for license plate recognition.
