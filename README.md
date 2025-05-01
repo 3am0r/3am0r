@@ -82,7 +82,7 @@
   - Analyzed sales distribution by **Category** and **State** with Pie and Doughnut Charts.
   - Enabled easy year and quarter filtering using **Slicers** for dynamic insights.
 - **Tools**: Microsoft Excel, Pivot Tables, Charts, Slicers, Conditional Formatting.
-- [GitHub Repository](https://github.com/3am0r/Order-Performance-Analysis)
+- [GitHub Repository](https://github.com/3am0r/Project-Excel)
 
 ### 4. 🛠 AI-Powered CCTV System
 - **Description**: Developed an AI-based CCTV system for recognizing vehicle license plates, types, and colors from live feeds using computer vision techniques.
