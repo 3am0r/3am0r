@@ -63,7 +63,7 @@
 - **Tools**: Power BI, DAX, Power Query, Python, SQL.
 -  [GitHub Repository](https://github.com/3am0r/Hospital-Analysis)
 
-### 2. 🍪 Cookies Shop Sales Report - Data Analysis with Power BI
+### 2. 🍪 Customer Purchase & Sales Performance Dashboard - Data Analysis with Power BI
 - **Description**: An interactive sales report analyzing a cookie shop's performance. Used **Power BI** for data transformation, relationship modeling, and creating various visualizations.
 - **Key Insights**:
   - Total profit, revenue, and units sold by cookie type.
