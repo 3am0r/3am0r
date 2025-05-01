@@ -72,7 +72,19 @@
 - **Tools**: Power BI, DAX, Power Query.
 - [GitHub Repository](https://github.com/3am0r/PowerBI)
 
-### 3. 🛠 AI-Powered CCTV System
+### 3. 📊 Order Performance Analysis Dashboard – Excel & Pivot Tables
+- **Description**: Built an interactive and insightful sales performance dashboard using **Microsoft Excel**, **Pivot Tables**, and **Data Visualizations** to analyze and present order data effectively.
+- **Key Insights**:
+  - Developed multiple **Pivot Tables** with conditional formatting to summarize product and sales data.
+  - Used a **Clustered Column Chart** to identify top-performing product groups.
+  - Highlighted **Top and Bottom 10 Products** using a Bar Chart for better inventory decisions.
+  - Displayed **Monthly Sales Trends** using a Line Chart to support forecasting.
+  - Analyzed sales distribution by **Category** and **State** with Pie and Doughnut Charts.
+  - Enabled easy year and quarter filtering using **Slicers** for dynamic insights.
+- **Tools**: Microsoft Excel, Pivot Tables, Charts, Slicers, Conditional Formatting.
+- [GitHub Repository](https://github.com/3am0r/Order-Performance-Analysis)
+
+### 4. 🛠 AI-Powered CCTV System
 - **Description**: Developed an AI-based CCTV system for recognizing vehicle license plates, types, and colors from live feeds using computer vision techniques.
 - **Key Features**:
   - Real-time video processing for license plate recognition.
