@@ -72,7 +72,16 @@
 - **Tools**: Power BI, DAX, Power Query.
 - [GitHub Repository](https://github.com/3am0r/PowerBI)
 
-### 3. 📊 Order Performance Analysis Dashboard – Excel & Pivot Tables
+### 3. 👟 Adidas Sales Dashboard – Data Analysis with Power BI
+- **Description**: Built a fully interactive and visual-rich sales dashboard to analyze Adidas sales across products, regions, retailers, and sales methods using **Power BI**.
+- **Key Insights**:
+  - 📌 **Total Sales**, **Quantity Sold**, and **Operating Profit** calculated using **DAX measures**.
+  - 🏪 Breakdown of **Sales by Retailer**, 📍 **Sales by Region**, and 🛒 **Sales by Method** (Online, In-store, Outlet).
+  - 📈 Trend analysis of sales over time.
+- **Tools**: Power BI, Power Query, DAX
+- **Repository**: [Adidas Sales Dashboard on GitHub](https://github.com/3am0r/Adidas-Sales-Dashboard)
+
+### 4. 📊 Order Performance Analysis Dashboard – Excel & Pivot Tables
 - **Description**: Built an interactive and insightful sales performance dashboard using **Microsoft Excel**, **Pivot Tables**, and **Data Visualizations** to analyze and present order data effectively.
 - **Key Insights**:
   - Developed multiple **Pivot Tables** with conditional formatting to summarize product and sales data.
@@ -84,7 +93,7 @@
 - **Tools**: Microsoft Excel, Pivot Tables, Charts, Slicers, Conditional Formatting.
 - [GitHub Repository](https://github.com/3am0r/Project-Excel)
 
-### 4. 🛠 AI-Powered CCTV System
+### 5. 🛠 AI-Powered CCTV System
 - **Description**: Developed an AI-based CCTV system for recognizing vehicle license plates, types, and colors from live feeds using computer vision techniques.
 - **Key Features**:
   - Real-time video processing for license plate recognition.
